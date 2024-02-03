@@ -15,7 +15,7 @@ Gattu Uday Shankar is a Data Scientist who believes that constant learning is on
  -  Data Science
  -  Ui/Ux designer
  -  AWS
- -  full Stack Java Web development
+ - Azure
  -  Stock market Trading
 
 
