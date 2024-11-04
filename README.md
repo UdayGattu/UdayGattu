@@ -19,8 +19,8 @@ Gattu Uday Shankar is a Data Scientist who believes that constant learning is on
  -  Stock market Trading
 
 
--   I’m currently working as Data Scientist at Artifical Penetration software solutions  as an intern...
--   I’m currently learning Web development, Advance NLP, java, Flutter, R language...
+-   I’m currently studying Master's in Software Engineering Systems at Northeastern University...
+
 
   [![Uday github stats](https://github-readme-stats.vercel.app/api?username=UdayGattu)](https://github.com/UdayGattu/github-readme-stats)
  
