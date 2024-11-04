@@ -1,8 +1,6 @@
   # About 👋 UdayGattu
 
-Gattu Uday Shankar is a Data Scientist who believes that constant learning is only the way to develop your self. At present, He is pursuing his undergraduation in Mechanical Engineerning  at Gokaraju Rangaraju Institute Of Technology HYDERABAD-INDIA.
-
-
+Gattu Uday Shankar is a Data Scientist who believes that constant learning is only the way to develop your self.
  * Apart from AI stuff he likes to watch web series and play cricket.
  
  # My Skills
