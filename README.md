@@ -1,43 +1,47 @@
-### Hi there, I'm Uday 👋
+# Uday Shankar Gattu | AI Systems Architect
 
-**Founding AI Engineer | Systems Architect | Latency Optimizer**
+**High-Throughput Inference | Agentic Workflows | Distributed Systems**
 
-I bridge the gap between "State-of-the-Art Research" and "Production Reliability." Currently architecting agentic workflows and high-throughput inference systems at **Galexor**.
-
-- 🔭 **I’m currently building:** Adversarial Safety Agents using **LangGraph** & **FastAPI**.
-- 🚀 **Specialty:** Reducing inference latency (P99) & optimizing state management (Redis/Vector DBs).
-- 💬 **Ask me about:** LLM Orchestration, RAG, Inference Optimization (vLLM/SGLang), and Agentic Reliability.
+I do not just wrap APIs. I architect scalable AI systems that handle production loads. My focus is purely on reducing inference latency (P99), optimizing GPU memory utilization, and orchestrating multi-agent systems that actually work in production environments, not just Jupyter notebooks.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Technical Arsenal
 
-**Core AI & Agents**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-
-**Systems & Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+| Domain | Stack |
+| :--- | :--- |
+| **Orchestration & Agents** | LangGraph, LangChain, AutoGen, Docker, Kubernetes |
+| **Inference & Serving** | vLLM, SGLang, FastAPI, Ray Serve, NVIDIA Triton |
+| **Data & Vector Stores** | Redis, PostgreSQL (pgvector), Pinecone, Qdrant |
+| **Core Engineering** | Python (Advanced), C++ (Basics), GCP, AWS, CI/CD Pipelines |
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Featured Engineering
 
-<div align="center">
-<a href="https://github.com/UdayGattu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=UdayGattu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayGattu&layout=compact&theme=radical"/>
-</a>
-</div>
+### [BrandAI: Multi-Agent Marketing Orchestrator](https://github.com/BrandTrustAI/BrandAI)
+*Architected a distributed agentic system to automate end-to-end video content generation.*
+* Engineered a LangGraph state machine orchestrating 4 autonomous agents, reducing manual content workflow time by 40% through parallelized execution.
+* Integrated Google Veo 3.1 for high-fidelity Image-to-Video generation, optimizing API payload handling to maintain sub-200ms overhead during spikes.
+
+### [A.R.G.U.S.: Automated Red-Teaming Graph](https://github.com/TestingSoftwareAI/ARGUS)
+*Developed an adversarial security suite to stress-test LLM safety alignment.*
+* Built an automated injection pipeline detecting 15+ distinct vector types, effectively improving model safety compliance scores by 25% in pre-deployment audits.
+* Implemented a recursive critique loop using dual-LLM evaluation to reduce false positive security flags by 18% compared to standard keyword matching.
+
+### [TextToVideo: Distributed Media Pipeline](https://github.com/GenAIByUdayGattu/TextToVideo)
+*High-performance rendering pipeline for generative media.*
+* Deployed asynchronous worker queues on GCP to render 1080p video from text prompts, optimizing GPU VRAM usage by 30% via dynamic quantization techniques.
+
+---
+
+## 📊 Engineering Metrics
+
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdayGattu&show_icons=true&theme=minimal&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayGattu&layout=compact&theme=minimal&hide_border=true)
+
+---
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/udayshankargattu/) | [Portfolio](https://udaygattu.github.io)
