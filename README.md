@@ -5,10 +5,10 @@
 
 <br/>
 
-<!-- Minimal badges row -->
 [![LinkedIn](https://img.shields.io/badge/-udayshankargattu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayshankargattu/)
 [![Portfolio](https://img.shields.io/badge/-udaygattu.github.io-000?style=flat&logo=vercel&logoColor=white)](https://udaygattu.github.io)
-[![Twitter](https://img.shields.io/badge/-@UdayGattu22-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/UdayGattu22)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/UdayGattu)
+[![Email](https://img.shields.io/badge/-udaygattu9949@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:udaygattu9949@gmail.com)
 
 </div>
 
@@ -16,73 +16,70 @@
 
 ```yaml
 name: Uday Shankar Gattu
-role: AI Safety Engineer @ Galexor
+role: Founding AI Engineer @ Galexor
+education: MS Software Engineering Systems @ Northeastern University
 location: Boston, MA
-focus: Making LLMs fail gracefully before bad actors make them fail catastrophically
 
-currently_obsessed_with:
-  - Adversarial prompt injection at scale
-  - Multi-agent orchestration (LangGraph, AutoGen)
-  - Inference optimization for production (vLLM, SGLang)
-  - Red-teaming language models before deployment
-
-philosophy: |
-  If your AI system hasn't been attacked in staging,
+what_i_do: |
+  I translate Multimodal GenAI research into production-grade systems.
+  Currently stress-testing Vision-Language Models against 100k+ adversarial vectors
+  before they hit production. If your AI hasn't been attacked in staging,
   it will be attacked in production.
+
+domains:
+  - Multimodal Agentic Systems (LangGraph, DSPy)
+  - Vision-Language Model Safety & Alignment
+  - Adversarial ML & Red-teaming at Scale
+  - RAG Optimization & Retrieval Systems
+  - High-throughput Inference (vLLM, SGLang)
 ```
 
 ---
 
-### `>_ what I actually do`
-
-I architect **adversarial safety systems** — automated pipelines that stress-test LLMs with thousands of attack vectors before they hit production. Think of it as chaos engineering, but for AI alignment.
-
-<details>
-<summary><b>🎯 My approach in 3 lines</b></summary>
-<br/>
-
-```
-1. Generate → Synthetic attack prompts at scale (jailbreaks, injections, bypasses)
-2. Evaluate → Multi-LLM critique loops with semantic similarity scoring  
-3. Harden → Feed failures back into safety fine-tuning pipelines
-```
-
-</details>
-
----
-
-### `>_ featured work`
+### `>_ what I actually build`
 
 <table>
 <tr>
 <td width="50%">
 
-**[🔴 A.R.G.U.S.](https://github.com/TestingSoftwareAI/ARGUS)**
-<br/>
+**[🔴 A.R.G.U.S.](https://github.com/TestingSoftwareAI/ARGUS)**  
 <sub>Autonomous Red-teaming Graph for Uncovering Security</sub>
 
-Automated adversarial testing suite that discovers LLM vulnerabilities at scale. 15+ injection vectors, recursive critique loops, 25% improvement in pre-deployment safety scores.
+Custom evaluation harness stress-testing VLMs against **100k+ visual jailbreak vectors** and prompt injection attacks. Recursive critique loops with multi-LLM evaluation.
 
-<sub>
-
-`LangGraph` `FastAPI` `Semantic Similarity` `Multi-Agent`
-
-</sub>
+`LangGraph` `Adversarial ML` `FastAPI` `Safety Alignment`
 
 </td>
 <td width="50%">
 
-**[🎬 BrandAI](https://github.com/BrandTrustAI/BrandAI)**
-<br/>
-<sub>Multi-Agent Marketing Orchestrator</sub>
+**[🎬 BrandAI](https://github.com/BrandTrustAI/BrandAI)**  
+<sub>AI-Powered Advertisement Critique Engine</sub>
 
-Distributed agentic system for automated video generation. 4 autonomous agents, Google Veo 3.1 integration, 40% reduction in content workflow time.
+Multi-Agent Orchestration with Critic-Creator loops. **35% improvement** in alignment scores vs single-shot baselines. CLIP embeddings + dense vector search for semantic retrieval.
 
-<sub>
+`LangGraph` `Vertex AI` `Gemini Vision` `CLIP` `Redis`
 
-`LangGraph` `Google Veo` `Docker` `GCP`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</sub>
+**[🎥 Text-to-Video System](https://github.com/GenAIByUdayGattu/TextToVideo)**  
+<sub>Multi-Modal Content Creation Pipeline</sub>
+
+Novel RAG pipeline for video synthesis — solved "style drift" by anchoring generation on retrieved assets. Semantic search for style-consistent asset retrieval before diffusion.
+
+`RAG` `Transformers` `Runway AI` `TensorFlow` `PyTorch`
+
+</td>
+<td width="50%">
+
+**🏢 Production Systems @ Galexor**  
+<sub>Founding AI Engineer</sub>
+
+Architected research-to-production pipeline with **56% inference latency reduction** via SSE + token streaming. Zero-trust infrastructure for SOC2 compliance. Hierarchical state management for long-horizon reasoning.
+
+`FastAPI` `Next.js` `AWS/Azure` `Kubernetes`
 
 </td>
 </tr>
@@ -90,60 +87,79 @@ Distributed agentic system for automated video generation. 4 autonomous agents, 
 
 ---
 
-### `>_ tech radar`
+### `>_ tech stack`
 
-<div align="center">
-
-| 🧠 **AI/ML** | ⚡ **Infra** | 🛠️ **Tools** |
-|:---:|:---:|:---:|
-| LangGraph | vLLM / SGLang | Docker |
-| LangChain | Ray Serve | Kubernetes |
-| Hugging Face | Redis | FastAPI |
-| PyTorch | PostgreSQL (pgvector) | GCP / AWS |
-
-</div>
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  RESEARCH & MODELING                                                        │
+│  ────────────────────────────────────────────────────────────────────────── │
+│  Multimodal GenAI • Vision Transformers (ViT) • CLIP • Diffusion Models     │
+│  LoRA/QLoRA Fine-tuning • Adversarial ML • RAG Optimization                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  FRAMEWORKS & ORCHESTRATION                                                 │
+│  ────────────────────────────────────────────────────────────────────────── │
+│  LangGraph • DSPy • LangChain • PyTorch • TensorFlow • Transformers         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  INFRASTRUCTURE & DEPLOYMENT                                                │
+│  ────────────────────────────────────────────────────────────────────────── │
+│  AWS (SageMaker, Bedrock) • Azure AI Studio • Docker • Kubernetes           │
+│  Terraform • Ray (Distributed Training) • Pinecone • pgvector               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  COMPLIANCE & OPS                                                           │
+│  ────────────────────────────────────────────────────────────────────────── │
+│  Model Evaluation Harnesses • SOC2/GDPR Patterns • CI/CD for ML             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### `>_ metrics that update themselves`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UdayGattu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=UdayGattu&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
-
-</div>
+### `>_ contribution activity`
 
 <div align="center">
 
 <!-- Snake animation - requires GitHub Action setup -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UdayGattu/UdayGattu/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/UdayGattu/UdayGattu/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/UdayGattu/UdayGattu/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UdayGattu/UdayGattu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UdayGattu/UdayGattu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/UdayGattu/UdayGattu/output/github-snake.svg" />
 </picture>
 
-<sub>☝️ Watch the snake eat my contributions</sub>
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UdayGattu&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### `>_ activity graph`
+### `>_ experience timeline`
 
-<div align="center">
-
-[![Uday's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UdayGattu&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+```
+2025 ────────────────────────────────────────────────────────────────────────►
+     │
+     ├─► Founding AI Engineer @ Galexor
+     │   Multimodal Agentic Systems • VLM Safety Alignment • 100k+ adversarial vectors
+     │
+2023 ├─► MS Software Engineering @ Northeastern
+     │   GTA: Generative AI, NLP, Prompt Engineering
+     │   Courses: Advanced LLMs, Responsible AI, Cloud Computing
+     │
+2021 ├─► ML Engineer @ Tata Consultancy Services
+     │   Azure Cloud • Predictive Maintenance • Petabyte-scale ETL
+     │   15% reduction in manufacturing downtime
+     │
+2021 ├─► BTech Mechanical Engineering @ GRIET
+     │
+◄────┴───────────────────────────────────────────────────────────────────────
+```
 
 ---
 
 <div align="center">
 
-<sub>**💡 Open to collaborating on AI safety research, red-teaming tools, and agentic systems.**</sub>
-
-<br/>
+**Open to collaborating on AI safety research, red-teaming tools, and agentic systems.**
 
 ```
 If you're building something that needs to not break — let's talk.
