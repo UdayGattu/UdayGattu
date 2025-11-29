@@ -18,7 +18,7 @@
 name: Uday Shankar Gattu
 role: Founding AI Engineer @ Galexor
 education: MS Software Engineering Systems @ Northeastern University
-location: Boston, MA
+location: San Francisco, CA
 
 what_i_do: |
   I translate Multimodal GenAI research into production-grade systems.
