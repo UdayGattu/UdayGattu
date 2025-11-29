@@ -1,30 +1,43 @@
-  # About 👋 UdayGattu
+### Hi there, I'm Uday 👋
 
-Gattu Uday Shankar is a Data Scientist who believes that constant learning is only the way to develop your self.
- * Apart from AI stuff he likes to watch web series and play cricket.
- 
- # My Skills
- 
- -  Machine Learning
- -  NLP
- -  Computer Vision
- -  Deep Learning
- -  Python
- -  Data Science
- -  Ui/Ux designer
- -  AWS
- - Azure
- -  Stock market Trading
+**Founding AI Engineer | Systems Architect | Latency Optimizer**
 
+I bridge the gap between "State-of-the-Art Research" and "Production Reliability." Currently architecting agentic workflows and high-throughput inference systems at **Galexor**.
 
--   I’m currently studying Master's in Software Engineering Systems at Northeastern University...
+- 🔭 **I’m currently building:** Adversarial Safety Agents using **LangGraph** & **FastAPI**.
+- 🚀 **Specialty:** Reducing inference latency (P99) & optimizing state management (Redis/Vector DBs).
+- 💬 **Ask me about:** LLM Orchestration, RAG, Inference Optimization (vLLM/SGLang), and Agentic Reliability.
 
+---
 
-  [![Uday github stats](https://github-readme-stats.vercel.app/api?username=UdayGattu)](https://github.com/UdayGattu/github-readme-stats)
- 
- 
- ## SocialLinks
-  
-  <a href="https://github.com/UdayGattu"><img src="https://github.com/favicon.ico" padding="35" width="30" height="30" ></a>    <a                href="https://www.instagram.com/uday_gattu_/"> <img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30" height="30"> <a   
-  href="https://linkedin.com/in/uday-shankar-gattu-963b881a9/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=1608163200&v=beta&t=NznrR1yta_mlSU_efsQknMn8j-DT5BvF6aSKW4-D-dw" width="30" height="30"></a>
- 
+### 🛠 Tech Stack
+
+**Core AI & Agents**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+
+**Systems & Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/UdayGattu">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=UdayGattu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayGattu&layout=compact&theme=radical"/>
+</a>
+</div>
