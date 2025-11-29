@@ -1,47 +1,154 @@
-# Uday Shankar Gattu | AI Systems Architect
+<div align="center">
 
-**High-Throughput Inference | Agentic Workflows | Distributed Systems**
+<!-- Animated header with typing effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hey%2C+I'm+Uday+%F0%9F%91%8B;Building+AI+that+breaks+AI+%E2%80%94+safely." alt="Typing SVG" /></a>
 
-I do not just wrap APIs. I architect scalable AI systems that handle production loads. My focus is purely on reducing inference latency (P99), optimizing GPU memory utilization, and orchestrating multi-agent systems that actually work in production environments, not just Jupyter notebooks.
+<br/>
 
----
+<!-- Minimal badges row -->
+[![LinkedIn](https://img.shields.io/badge/-udayshankargattu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udayshankargattu/)
+[![Portfolio](https://img.shields.io/badge/-udaygattu.github.io-000?style=flat&logo=vercel&logoColor=white)](https://udaygattu.github.io)
+[![Twitter](https://img.shields.io/badge/-@UdayGattu22-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/UdayGattu22)
 
-## 🛠 Technical Arsenal
-
-| Domain | Stack |
-| :--- | :--- |
-| **Orchestration & Agents** | LangGraph, LangChain, AutoGen, Docker, Kubernetes |
-| **Inference & Serving** | vLLM, SGLang, FastAPI, Ray Serve, NVIDIA Triton |
-| **Data & Vector Stores** | Redis, PostgreSQL (pgvector), Pinecone, Qdrant |
-| **Core Engineering** | Python (Advanced), C++ (Basics), GCP, AWS, CI/CD Pipelines |
+</div>
 
 ---
 
-## 🚀 Featured Engineering
+```yaml
+name: Uday Shankar Gattu
+role: AI Safety Engineer @ Galexor
+location: Boston, MA
+focus: Making LLMs fail gracefully before bad actors make them fail catastrophically
 
-### [BrandAI: Multi-Agent Marketing Orchestrator](https://github.com/BrandTrustAI/BrandAI)
-*Architected a distributed agentic system to automate end-to-end video content generation.*
-* Engineered a LangGraph state machine orchestrating 4 autonomous agents, reducing manual content workflow time by 40% through parallelized execution.
-* Integrated Google Veo 3.1 for high-fidelity Image-to-Video generation, optimizing API payload handling to maintain sub-200ms overhead during spikes.
+currently_obsessed_with:
+  - Adversarial prompt injection at scale
+  - Multi-agent orchestration (LangGraph, AutoGen)
+  - Inference optimization for production (vLLM, SGLang)
+  - Red-teaming language models before deployment
 
-### [A.R.G.U.S.: Automated Red-Teaming Graph](https://github.com/TestingSoftwareAI/ARGUS)
-*Developed an adversarial security suite to stress-test LLM safety alignment.*
-* Built an automated injection pipeline detecting 15+ distinct vector types, effectively improving model safety compliance scores by 25% in pre-deployment audits.
-* Implemented a recursive critique loop using dual-LLM evaluation to reduce false positive security flags by 18% compared to standard keyword matching.
-
-### [TextToVideo: Distributed Media Pipeline](https://github.com/GenAIByUdayGattu/TextToVideo)
-*High-performance rendering pipeline for generative media.*
-* Deployed asynchronous worker queues on GCP to render 1080p video from text prompts, optimizing GPU VRAM usage by 30% via dynamic quantization techniques.
-
----
-
-## 📊 Engineering Metrics
-
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdayGattu&show_icons=true&theme=minimal&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayGattu&layout=compact&theme=minimal&hide_border=true)
+philosophy: |
+  If your AI system hasn't been attacked in staging,
+  it will be attacked in production.
+```
 
 ---
 
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/udayshankargattu/) | [Portfolio](https://udaygattu.github.io)
+### `>_ what I actually do`
+
+I architect **adversarial safety systems** — automated pipelines that stress-test LLMs with thousands of attack vectors before they hit production. Think of it as chaos engineering, but for AI alignment.
+
+<details>
+<summary><b>🎯 My approach in 3 lines</b></summary>
+<br/>
+
+```
+1. Generate → Synthetic attack prompts at scale (jailbreaks, injections, bypasses)
+2. Evaluate → Multi-LLM critique loops with semantic similarity scoring  
+3. Harden → Feed failures back into safety fine-tuning pipelines
+```
+
+</details>
+
+---
+
+### `>_ featured work`
+
+<table>
+<tr>
+<td width="50%">
+
+**[🔴 A.R.G.U.S.](https://github.com/TestingSoftwareAI/ARGUS)**
+<br/>
+<sub>Autonomous Red-teaming Graph for Uncovering Security</sub>
+
+Automated adversarial testing suite that discovers LLM vulnerabilities at scale. 15+ injection vectors, recursive critique loops, 25% improvement in pre-deployment safety scores.
+
+<sub>
+
+`LangGraph` `FastAPI` `Semantic Similarity` `Multi-Agent`
+
+</sub>
+
+</td>
+<td width="50%">
+
+**[🎬 BrandAI](https://github.com/BrandTrustAI/BrandAI)**
+<br/>
+<sub>Multi-Agent Marketing Orchestrator</sub>
+
+Distributed agentic system for automated video generation. 4 autonomous agents, Google Veo 3.1 integration, 40% reduction in content workflow time.
+
+<sub>
+
+`LangGraph` `Google Veo` `Docker` `GCP`
+
+</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `>_ tech radar`
+
+<div align="center">
+
+| 🧠 **AI/ML** | ⚡ **Infra** | 🛠️ **Tools** |
+|:---:|:---:|:---:|
+| LangGraph | vLLM / SGLang | Docker |
+| LangChain | Ray Serve | Kubernetes |
+| Hugging Face | Redis | FastAPI |
+| PyTorch | PostgreSQL (pgvector) | GCP / AWS |
+
+</div>
+
+---
+
+### `>_ metrics that update themselves`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UdayGattu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=UdayGattu&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
+
+</div>
+
+<div align="center">
+
+<!-- Snake animation - requires GitHub Action setup -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UdayGattu/UdayGattu/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/UdayGattu/UdayGattu/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/UdayGattu/UdayGattu/blob/output/github-snake.svg" />
+</picture>
+
+<sub>☝️ Watch the snake eat my contributions</sub>
+
+</div>
+
+---
+
+### `>_ activity graph`
+
+<div align="center">
+
+[![Uday's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UdayGattu&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>**💡 Open to collaborating on AI safety research, red-teaming tools, and agentic systems.**</sub>
+
+<br/>
+
+```
+If you're building something that needs to not break — let's talk.
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=UdayGattu&color=6366f1&style=flat&label=visitors)
+
+</div>
