@@ -16,15 +16,16 @@
 
 ```yaml
 name: Uday Shankar Gattu
-role: Founding AI Engineer @ Galexor
+role: AI Engineer @ PraxisPro (prev. Founding AI Engineer @ Galexor)
 education: MS Software Engineering Systems @ Northeastern University
-location: San Francisco, CA
+location: New York, NY
 
 what_i_do: |
-  I translate Multimodal GenAI research into production-grade systems.
-  Currently stress-testing Vision-Language Models against 100k+ adversarial vectors
-  before they hit production. If your AI hasn't been attacked in staging,
-  it will be attacked in production.
+  I build production-grade AI systems end to end — multimodal GenAI,
+  agentic orchestration, RAG, and high-throughput inference — and I
+  stress-test them before they ship. 100k+ adversarial vectors against
+  Vision-Language Models in staging, because if your AI hasn't been
+  attacked in staging, it will be attacked in production.
 
 domains:
   - Multimodal Agentic Systems (LangGraph, DSPy)
@@ -74,8 +75,8 @@ Novel RAG pipeline for video synthesis — solved "style drift" by anchoring gen
 </td>
 <td width="50%">
 
-**🏢 Production Systems @ Galexor**  
-<sub>Founding AI Engineer</sub>
+**🏢 Production Systems @ Galexor (2025)**  
+<sub>Founding AI Engineer — built the OSIRIS platform 0-to-1</sub>
 
 Architected research-to-production pipeline with **56% inference latency reduction** via SSE + token streaming. Zero-trust infrastructure for SOC2 compliance. Hierarchical state management for long-horizon reasoning.
 
@@ -137,10 +138,15 @@ Architected research-to-production pipeline with **56% inference latency reducti
 ### `>_ experience timeline`
 
 ```
-2025 ────────────────────────────────────────────────────────────────────────►
+2026 ────────────────────────────────────────────────────────────────────────►
      │
-     ├─► Founding AI Engineer @ Galexor
-     │   Multimodal Agentic Systems • VLM Safety Alignment • 100k+ adversarial vectors
+     ├─► AI Engineer @ PraxisPro (New York)
+     │   Agentic Workflow Systems (Temporal) • Human-in-the-loop Orchestration
+     │   Voice-Agent Scheduling • AI Security Research
+     │
+2025 ├─► Founding AI Engineer @ Galexor
+     │   Lead Architect, OSIRIS Platform (0-to-1) • VLM Safety Alignment
+     │   100k+ adversarial vectors • 750+ parallel worker eval infrastructure
      │
 2023 ├─► MS Software Engineering @ Northeastern
      │   GTA: Generative AI, NLP, Prompt Engineering
